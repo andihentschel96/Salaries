@@ -1,4 +1,4 @@
-package com.exercise.salaries2021.resource;
+package com.exercise.salaries2021.controller;
 
 
 import com.exercise.salaries2021.excelparser.PersonSheetParser;
